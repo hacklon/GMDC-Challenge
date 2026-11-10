@@ -1,0 +1,8 @@
+Train.csv
+AdditionalHistory.zip
+*.zip
+*.gz
+*.tar
+catboost_info/
+__pycache__/
+.ipynb_checkpoints/
