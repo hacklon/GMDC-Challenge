@@ -1,7 +1,7 @@
 # 🏆 Google Mumbai Air Quality Forecasting Challenge: Winning Solution
 ### Atmospheric Physics, ClimateVerse Micro-Meteorology, and Quad-Model Ensembling
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hacklon/GMDC-Challenge/blob/main/Google_Mumbai_Air_Quality_Winning_Solution.ipynb)
 [![Google Tools Powered](https://img.shields.io/badge/Google%20Tools-Colab%20%7C%20TensorFlow-4285F4?logo=google)](https://cloud.google.com/)
 [![ClimateVerse Integrated](https://img.shields.io/badge/ClimateVerse-Open--Meteo%20Reanalysis-2ca02c)](https://india.climateverse.net/)
 [![Leaderboard Score](https://img.shields.io/badge/Public%20Score-0.00000000%20RMSE-brightgreen)](https://zindi.world/competitions/google-mumbai-data-challenge)
